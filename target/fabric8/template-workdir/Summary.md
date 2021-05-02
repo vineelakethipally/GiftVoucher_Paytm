@@ -1,0 +1,1 @@
+Camel route using CDI in a standalone Java Container calling the remote camel-servlet quickstart
